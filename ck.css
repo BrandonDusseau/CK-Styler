@@ -1,0 +1,90 @@
+@-moz-document url-prefix(http://www.csl.mtu.edu/cs3331.ck/www/), url-prefix(http://www.csl.mtu.edu/cs4411.ck/www/) {
+    body {
+        background: #fff;
+        color: #000;
+        font-family: "Trebuchet MS", sans-serif;
+        padding: 10px 30px;
+    }
+    
+    pre {
+        border: 2px solid #ccc;
+        padding: 7px;
+        background: #000;
+        color: #0f0;
+        border-radius: 10px;
+    }
+    
+    h3 {
+        border-bottom: 1px solid #000;
+        background: #eee;
+        margin-left: -20px;
+        margin-right: -20px;
+        padding: 2px 0 0 4px;
+    }
+    
+    table, td, tr, th {
+        border: 2px solid #ccc;
+        border-collapse: collapse;
+    }
+    
+    table h3 {
+        background: transparent;
+        padding: 0;
+        border: none;
+        margin: inherit;
+    }
+    
+    th {
+        color: #000;
+        background: #aaa;
+    }
+    
+    td, th {
+        padding: 3px;   
+    }
+    
+    img[src="GreenDot.gif"], img[src="ChromeBall.gif"], img[src="e-Mail.gif"],
+    img[src="mtu-seal.gif"], img[src="GrLine.gif"], img[src="../../GrLine.gif"],
+    img[src="../../GreenDot.gif"], img[src="../../ChromeBall.gif"],
+    img[src="../GrLine.gif"], img[src="../GreenDot.gif"], img[src="../ChromeBall.gif"] {
+        height: 0px;
+        width: 0px;
+    }
+    
+    dd, dt {
+        display: list-item;
+        list-style-type: disc;   
+    }
+    
+    a {
+        color: #00f;   
+    }
+    
+    font[color="#FF0000"] {
+        color: #ee0000; !important   
+    }
+    
+    *[bgcolor="#FF0000"] {
+        background-color: #cc0000; !important
+    }
+    
+    font[color="#FFFF00"] {
+        color: #FFF57F; !important   
+    }
+    
+    h1 {
+        font-weight: bold;
+        border-bottom: 3px solid #000;
+        padding: 0 0 5px 0;
+    }
+    
+    font[face="Arial Black"] {
+        font-family: inherit; !important
+        font-weight: bold;
+    }
+    
+    font[face="Helvetica"] {
+        font-family: inherit; !important   
+    }
+}
+
