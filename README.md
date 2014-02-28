@@ -13,5 +13,5 @@ appropriate CSS file into your browser. Depending on your browser,
 it may be necessary to follow additional instructions inside the CSS
 file.
 
-For Safari, you can install this third party fork of Stylish: http://sobolev.us/stylish/
+For Safari, you can install this third party fork of Stylish: http://sobolev.us/stylish/.
 Safari users should use chrome.css for their stylesheet.
