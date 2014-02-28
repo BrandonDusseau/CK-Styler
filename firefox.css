@@ -12,6 +12,7 @@
         background: #000;
         color: #0f0 !important;
         border-radius: 10px;
+		overflow: auto;
     }
     
     pre font {
@@ -45,7 +46,7 @@
     }
     
     td, th {
-        padding: 3px;   
+        padding: 3px;
     }
     
     img[src="GreenDot.gif"], img[src="ChromeBall.gif"], img[src="e-Mail.gif"],
@@ -58,7 +59,7 @@
     
     dd, dt {
         display: list-item;
-        list-style-type: disc;   
+        list-style-type: disc; 
     }
     
     a {
